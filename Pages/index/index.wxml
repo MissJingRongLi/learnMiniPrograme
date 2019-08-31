@@ -1,0 +1,3 @@
+<!--Pages/index/index.wxml-->
+<text>文字内容测试</text>
+<button>按钮</button>
